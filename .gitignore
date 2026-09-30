@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+
+/assets/images/uploads/annonces/*
+/assets/images/uploads/profils/*
+!/assets/images/uploads/profils/default.png
+
+/.sixth/
+/Diagramme_de_Cas_Classes_et_Séquences.pdf
+/cahier_de_charge.pdf
